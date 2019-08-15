@@ -35,7 +35,7 @@ func main(){
 				fmt.Print(" ")
 			}
 		}
-		t+
+		t++
 		fmt.Print(" ")
 		for j:= 1; j <= s; j++{ 
             if (j == 1 || ((i == 1 || i == s-1) && 
