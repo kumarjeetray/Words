@@ -11,7 +11,7 @@
 package main
 import "fmt"
 func main(){
-	t:=
+	t:=2
 	s:=8
 	u:=4
 	h:=1
